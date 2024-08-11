@@ -1,26 +1,26 @@
-Windows Activation Script
+<h1>Windows Activation Script</h1>
 Welcome to the Windows Activation Script repository. This script has been meticulously designed to assist users in activating their Windows operating system with ease and efficiency. Whether you're using Windows 10 or Windows 11, this script provides a straightforward solution to ensure your system is fully activated and ready for use.
 
 
-Overview
+<h2>Overview</h2>
 Activating your Windows OS is crucial to unlock its full potential, including receiving important updates, accessing all features, and ensuring your system's security. This script simplifies the activation process, saving you time and effort while ensuring your system is correctly licensed.
 
 
 
-Compatibility
+<h2>Compatibility</h2>
 This activation script is compatible with a range of Windows versions:
 
 
 
-Windows 10: All editions (Home, Pro, Enterprise, etc.)
-Windows 11: All editions (Home, Pro, Enterprise, etc.)
+Windows 10: All editions (Home, Pro, Enterprise, etc.)</br>
+Windows 11: All editions (Home, Pro, Enterprise, etc.)</br>
 Other Windows Versions: The script may also work with other versions of Windows, though it has been primarily tested on Windows 10 and 11.
-Features
-Quick Activation: The script is designed to activate your Windows OS within minutes.
-User-Friendly: No complex configurations or technical knowledge required.
-Free of Charge: Activate your Windows operating system without any cost.
-Efficient: Ensures that your system is activated without needing to search for keys or rely on third-party software.
-How to Use This Script
+Features</br>
+Quick Activation: The script is designed to activate your Windows OS within minutes.</br>
+User-Friendly: No complex configurations or technical knowledge required.</br>
+Free of Charge: Activate your Windows operating system without any cost.</br>
+Efficient: Ensures that your system is activated without needing to search for keys or rely on third-party software.</br>
+<h2>How to Use This Script</h2>
 Follow these steps to activate your Windows OS using the script:
 
 
