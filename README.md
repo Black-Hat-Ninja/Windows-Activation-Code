@@ -25,19 +25,19 @@ Follow these steps to activate your Windows OS using the script:
 
 
 
-1 Download the Script: First, download the script file from this repository or create your own by copying the content provided.
-2 Open the Script: Use a text editor (such as Notepad) to open the script file.
-3 Copy the Content: Select all the content within the script and copy it to your clipboard.
-4 Create a .bat File:
-5 Open a new file in your text editor.
-6 Paste the copied content into the new file.
-7 Save the file with a .bat extension (e.g., activate_windows.bat). Ensure you select "All Files" from the save options, so it doesn’t save as a .txt file.
-8 Run as Administrator:
-9 Right-click the newly created .bat file.
-10 Select “Run as administrator” from the context menu. This is crucial, as administrative privileges are required to make system changes.
-11 Follow On-Screen Instructions: The script may prompt you with some instructions or confirmations. Follow them as needed.
-12 Activation Confirmation
-Once the script has completed its process, your Windows OS should be fully activated. You can verify this by:
+1 Download the Script: First, download the script file from this repository or create your own by copying the content provided. </br> 
+2 Open the Script: Use a text editor (such as Notepad) to open the script file.</br>
+3 Copy the Content: Select all the content within the script and copy it to your clipboard.</br>
+4 Create a .bat File:</br>
+5 Open a new file in your text editor.</br>
+6 Paste the copied content into the new file.</br>
+7 Save the file with a .bat extension (e.g., activate_windows.bat). Ensure you select "All Files" from the save options, so it doesn’t save as a .txt file.</br>
+8 Run as Administrator:</br>
+9 Right-click the newly created .bat file.</br>
+10 Select “Run as administrator” from the context menu. This is crucial, as administrative privileges are required to make system changes.</br>
+11 Follow On-Screen Instructions: The script may prompt you with some instructions or confirmations. Follow them as needed.</br>
+12 Activation Confirmation</br>
+Once the script has completed its process, your Windows OS should be fully activated. You can verify this by:</br>
 
 
 
